@@ -45,12 +45,13 @@
             this.TextboxUsuario.Size = new System.Drawing.Size(220, 22);
             this.TextboxUsuario.TabIndex = 0;
             this.TextboxUsuario.Text = "Nombre de usuario";
+            this.TextboxUsuario.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // FakeflixLogo
             // 
             this.FakeflixLogo.Cursor = System.Windows.Forms.Cursors.Default;
             this.FakeflixLogo.Image = global::ProyectoTaller.Properties.Resources.Fakeflix_logo;
-            this.FakeflixLogo.Location = new System.Drawing.Point(12, 12);
+            this.FakeflixLogo.Location = new System.Drawing.Point(9, 12);
             this.FakeflixLogo.Name = "FakeflixLogo";
             this.FakeflixLogo.Size = new System.Drawing.Size(280, 53);
             this.FakeflixLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
